@@ -1,0 +1,9 @@
+{
+  "domain": "shell",
+  "name": "shell",
+  "version": "2021.1.2",
+  "documentation": "https://github.com/jadson179/shell",
+  "issue_tracker": "https://github.com/jadson179/shell/issues",
+  "codeowners": ["@jadson179"],
+  "iot_class":"local_push"
+}

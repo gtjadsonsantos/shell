@@ -1,0 +1,5 @@
+command:
+  description: Execute command in the shell
+  fields:
+    command: 
+      example: "echo 'hello'"
