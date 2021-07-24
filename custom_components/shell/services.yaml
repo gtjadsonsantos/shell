@@ -3,3 +3,9 @@ command:
   fields:
     command: 
       example: "echo 'hello'"
+
+commands:
+  description: Execute commands in the shell
+  fields:
+    commands: 
+      example: ["echo 'teste1'","echo 'teste2'"]
